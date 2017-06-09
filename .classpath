@@ -4,5 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="lib" path="lib/Feature_Detection-2.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/imglib.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mpicbg-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

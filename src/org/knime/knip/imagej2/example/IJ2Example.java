@@ -1,5 +1,7 @@
 package org.knime.knip.imagej2.example;
 
+import net.imglib2.type.numeric.RealType;
+
 import org.scijava.ItemIO;
 import org.scijava.command.Command;
 import org.scijava.plugin.Menu;
@@ -7,7 +9,6 @@ import org.scijava.plugin.Parameter;
 import org.scijava.plugin.Plugin;
 
 import fiji.features.Frangi_;
-import net.imglib2.type.numeric.RealType;
 
 /*
  * Notes for buddy class loading
