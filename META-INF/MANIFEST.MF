@@ -15,11 +15,15 @@ Require-Bundle: org.knime.base,
  imglib2;bundle-version="2.2.0",
  scijava-common;bundle-version="2.36.0",
  jama;bundle-version="1.0.3",
- ij;bundle-version="1.51.0"
+ ij;bundle-version="1.51.0",
+ imagej-ops;bundle-version="0.36.0",
+ imglib2-roi;bundle-version="0.4.4",
+ imglib2-ij;bundle-version="2.0.35",
+ imglib2-algorithm;bundle-version="0.6.2"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: knip-ij2-example.jar,
- lib/Feature_Detection-2.0.2.jar,
- lib/imglib.jar,
- lib/mpicbg-1.1.1.jar
+ lib/Colocalisation_Analysis-3.0.0.jar,
+ lib/itextpdf-5.5.11.jar,
+ lib/fiji-lib-2.1.2.jar
 Bundle-ActivationPolicy: lazy
 

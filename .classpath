@@ -3,8 +3,8 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="lib" path="lib/Feature_Detection-2.0.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/imglib.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/mpicbg-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/Colocalisation_Analysis-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/itextpdf-5.5.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/fiji-lib-2.1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

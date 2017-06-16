@@ -8,8 +8,6 @@ import org.scijava.plugin.Menu;
 import org.scijava.plugin.Parameter;
 import org.scijava.plugin.Plugin;
 
-import fiji.features.Frangi_;
-
 /*
  * Notes for buddy class loading
  * 
@@ -48,7 +46,7 @@ public class IJ2Example<T extends RealType<T>> implements Command {
                 floatOut = testFloat;
                 doubleOut = testDouble;
 
-                output = Frangi_.intArrayToString(new int[] {0, 1, 2});
+                //                output = Frangi_.intArrayToString(new int[] {0, 1, 2});
         }
 
 }
